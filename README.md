@@ -18,15 +18,16 @@ https://drive.google.com/open?id=1kAuieiqn_Ew8V3aT1n-2mohmTsAHPVR2
 
 Download all the files and in the folder:
 
-            utilisateur> tar -zxf Iraf-Installer.tar.gz
+            user> tar -zxf Iraf-Installer.tar.gz
 
 And access the folder:
 
-            utilisateur> cd Iraf-Installer/
+            user> cd Iraf-Installer/
 
 Edit the file **Iraf_install18.04.sh** in the lines 7 and 8 and save the file.
 
 In the terminal execute:
 
-            utilisateur> chmod +x Iraf_install18.04.sh
-            utilisateur> ./Iraf_install18.04.sh
+            user> chmod +x Iraf_install18.04.sh
+            
+            user> ./Iraf_install18.04.sh
